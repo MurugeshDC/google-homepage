@@ -1,2 +1,2 @@
-I am building a google homepage. 
-I am using html and css to acheive this. 
+Building a google homepage to practice my html and css skills.
+It will look like google's homepage but the buttons won't work.
